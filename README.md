@@ -1,6 +1,6 @@
 # NLP_Business_Analytics
 
-Module
+<B>MODULES </b>
 
 1	Introduction to NLP and Business Applications
 
